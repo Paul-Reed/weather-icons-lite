@@ -4,15 +4,13 @@
 
 Weather Icons Lite are weather themed icons, ready to be dropped right into [Bootstrap](http://www.getbootstrap.com), or any project that needs high quality weather based icons!
 
-Get started at [http://weathericons.io](http://weathericons.io)!
-
-![Icon Preview](http://i.imgur.com/XmZW2q3.png)
+![Icon Preview](images/example.PNG)
 
 ## Basic Usage
 
 The icons are displayed by using an `i` element and adding the base class `wi` and then the icon class you want, such as `day-sunny`. This then looks like `<i class="wi wi-day-sunny"></i>`.
 
-To add a modifier, include the class you want after the icon name, which looks like `<i class="wi wi-day-sunny wi-flip-vertical"></i>`. You can flip, rotate, or add a fixed width. See it all at [http://weathericons.io](http://weathericons.io).
+To add a modifier, include the class you want after the icon name, which looks like `<i class="wi wi-day-sunny wi-flip-vertical"></i>`. You can flip, rotate, or add a fixed width. For further examples see [Font Awsome](http://fontawesome.io/examples/).
 
 ## API Usage
 
@@ -47,12 +45,29 @@ The `<div>` will centre the icon in the dashboard panel.
 
 There is an [example node-red flow](/example/example.txt) to get you started, once you have completed the above.
 
-## Contributing
-If you feel so inclined to add icon ideas, icon art, or other fixes/changes to how the package works, feel free to help!
 
-## Credit
-The icon designs are originally by [Lukas Bischoff](http://www.twitter.com/artill). Icon art for v1.1 forward, HTML, Less, and CSS are by [Erik)](http://www.helloerik.com).
-Weather-icons-lite and Node-red compatibility changes by Paul Reed.
+## Add entries to app.cache
+
+If you have password protected your dashboard by enabling `httpNodeAuth`, then unless the weather-icons css & font files are added to the node-red dashboard app.cache, you will get repeated requests to re-authorise, due to them being again requested from the server, instead of being cached by the browser.
+
+To add the files to the dashboard app.cache;  
+`nano /home/pi/.node-red/node_modules/node-red-dashboard/dist/dashboard.appcache`  
+and add the following entries to the the file;  
+```
+../../../weather-icons-lite/css/weather-icons-lite.min.css
+../../../weather-icons-lite/fonts/weather-icons-lite.woff2
+../../../weather-icons-lite/fonts/weather-icons-lite.woff
+../../../weather-icons-lite/fonts/weather-icons-lite.ttf
+../../../weather-icons-lite/fonts/weather-icons-lite.eot
+```  
+Save, and restart the node-red server to take effect.
+
+**Please note** Updating or re-installing the dashboard node will wipe out these changes, and they will need to be re-applied.
+
+## Credits
+
+The icon designs are originally by [Lukas Bischoff](http://www.twitter.com/artill). Additional Icon art & CSS  by [Erik Flowers)](http://www.helloerik.com).  
+Weather-icons-lite, CSS update & Node-red compatibility changes by Paul Reed.
 
 ## Licensing
 
