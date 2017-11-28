@@ -1,0 +1,16 @@
+{
+    "name" : "weather-icons-lite",
+    "version" : "0.0.1",
+    "description" : "A lightweight set of weather icons",
+    "dependencies" : {
+    },
+    "repository" : {
+        "type":"git",
+        "url":"https://github.com/Paul-Reed/weather-icons-lite"
+    },
+    "license": "OFL-1.1 AND MIT",
+    "keywords": [ "weather","icons" ],
+    "author": {
+        "name": "Paul Reed"
+    }
+}
