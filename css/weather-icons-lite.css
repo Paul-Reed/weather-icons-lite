@@ -11,8 +11,7 @@
   font-family: 'weather-icons-lite';
   font-weight: normal;
   font-style: normal;
-  src: local('weather-icons-lite'),
-       url('../fonts/weather-icons-lite.woff2') format('woff2'),
+  src: url('../fonts/weather-icons-lite.woff2') format('woff2'),
        url('../fonts/weather-icons-lite.woff') format('woff'),
        url('../fonts/weather-icons-lite.ttf') format('truetype'),
        url('../fonts/weather-icons-lite.eot') format('embedded-opentype');
