@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-<string name="wi_forecast_io_clear_day">&#xf00d;</string>
-<string name="wi_forecast_io_clear_night">&#xf02e;</string>
-<string name="wi_forecast_io_rain">&#xf019;</string>
-<string name="wi_forecast_io_snow">&#xf01b;</string>
-<string name="wi_forecast_io_sleet">&#xf0b5;</string>
-<string name="wi_forecast_io_wind">&#xf050;</string>
-<string name="wi_forecast_io_fog">&#xf014;</string>
-<string name="wi_forecast_io_cloudy">&#xf013;</string>
-<string name="wi_forecast_io_partly_cloudy_day">&#xf002;</string>
-<string name="wi_forecast_io_partly_cloudy_night">&#xf031;</string>
-<string name="wi_forecast_io_hail">&#xf015;</string>
-<string name="wi_forecast_io_thunderstorm">&#xf01e;</string>
-<string name="wi_forecast_io_tornado">&#xf056;</string>
+<string name="wi_darksky_clear_day">&#xf00d;</string>
+<string name="wi_darksky_clear_night">&#xf02e;</string>
+<string name="wi_darksky_rain">&#xf019;</string>
+<string name="wi_darksky_snow">&#xf01b;</string>
+<string name="wi_darksky_sleet">&#xf0b5;</string>
+<string name="wi_darksky_wind">&#xf050;</string>
+<string name="wi_darksky_fog">&#xf014;</string>
+<string name="wi_darksky_cloudy">&#xf013;</string>
+<string name="wi_darksky_partly_cloudy_day">&#xf002;</string>
+<string name="wi_darksky_partly_cloudy_night">&#xf086;</string>
+<string name="wi_darksky_hail">&#xf015;</string>
+<string name="wi_darksky_thunderstorm">&#xf01e;</string>
+<string name="wi_darksky_tornado">&#xf056;</string>
 <string name="wi_owm_01d">&#xf00d;</string>
 <string name="wi_owm_02d">&#xf00c;</string>
 <string name="wi_owm_03d">&#xf002;</string>
 <string name="wi_owm_04d">&#xf013;</string>
-<string name="wi_owm_09d">&#xf009;</string>
+<string name="wi_owm_09d">&#xf017;</string>
 <string name="wi_owm_10d">&#xf019;</string>
 <string name="wi_owm_11d">&#xf01e;</string>
 <string name="wi_owm_13d">&#xf01b;</string>
