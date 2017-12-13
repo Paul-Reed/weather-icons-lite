@@ -8,7 +8,8 @@ Weather Icons Lite is a collection of 57 weather themed icons, ready to be dropp
 
 ## Basic Usage
 
-The icons are displayed by using an `i` element and adding the base class `wi` and then the icon class you want, so for example, using Wunderground's 'wu' prefix and their 'partlycloudy' icon key. This would then look like `<i class="wi wi-wu-partlycloudy"></i>`.
+The icons are displayed by using an `i` element and adding the base class `wi` and then the icon class you want, so for example, using [Wunderground's](https://www.wunderground.com/about/icons.asp) 'wu' prefix and their 'partlycloudy' icon key. This would then look like `<i class="wi wi-wu-partlycloudy"></i>`.  
+The same format applies to [Darksky](https://darksky.net/dev/docs/faq#faq-api-features) & [Openweathermap](https://openweathermap.org/weather-conditions) icon feeds; `<i class="wi wi-darksky-clear-day"></i>` and `<i class="wi wi-owm-01d"></i>` respectively.
 
 To add a modifier, include the class you want after the icon name, which looks like `<i class="wi wi-wu-partlycloudy wi-flip-vertical"></i>`. You can flip, rotate, or add a fixed width. For further examples of how to apply different effects, see [Font Awsome](http://fontawesome.io/examples/).
 
