@@ -17,7 +17,7 @@ To add a modifier, include the class you want after the icon name;
 
 #### Size
 
-Icons inherit the font-size from their parent container, and can be increased or decreased relatively using any of the following switches; `wi-1x`, `wi-2x`, `wi-3x`, up to `wi-10x` and also `wi-xs`, `wi-sm`, `wi-lg`.
+Icons inherit the font-size from their parent container, and can be increased or decreased relatively using any of the following switches; `wi-1x`, `wi-2x`, `wi-3x`, up to `wi-10x` and also `wi-xs`, `wi-sm`, `wi-lg`.  
 Example of a relative change; `<i class="wi wi-wu-partlycloudy wi-5x"></i>`
 
 Icon size can also be changed by varying the `style` attribute of the containing HTML element;
@@ -30,12 +30,12 @@ Icon size can also be changed by varying the `style` attribute of the containing
 
 #### Icon colour
 
-Icons can be given a specific colour by adding a style attribute to the `<i class>`
+Icons can be given a specific colour by adding a style attribute to the `<i class>`  
 Example of changing icon colour; `<i class="wi wi-darksky-clear-day" style="color:red;"></i>`
 
 #### Rotating icons
 
-Icons can also be flipped or rotated, using any of the modifiers; `wi-flip-vertical`, `wi-flip-horizontal`, and `wi-rotate-90`, `wi-rotate-90`, `wi-rotate-180`, `wi-rotate-270`
+Icons can also be flipped or rotated, using any of the modifiers; `wi-flip-vertical`, `wi-flip-horizontal`, and `wi-rotate-90`, `wi-rotate-90`, `wi-rotate-180`, `wi-rotate-270`  
 Example of icon rotation; `<i class="wi wi-wu-partlycloudy wi-rotate-270"></i>`
 
 #### Positioning icons
