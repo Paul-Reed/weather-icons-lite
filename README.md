@@ -8,8 +8,9 @@ Weather Icons Lite is a collection of 57 weather themed icons, **which are alrea
 
 ## Basic Usage
 
-The icons are displayed by using an `i` element and adding the base class `wi` and then the icon class you want, so for example, using [Wunderground's](https://www.wunderground.com/about/icons.asp) 'wu' prefix and their 'partlycloudy' icon key. This would then look like `<i class="wi wi-wu-partlycloudy"></i>`.  
-The same format applies to [Darksky](https://darksky.net/dev/docs/faq#faq-api-features) & [Openweathermap](https://openweathermap.org/weather-conditions) icon feeds; `<i class="wi wi-darksky-clear-day"></i>` and `<i class="wi wi-owm-01d"></i>` respectively.
+The icons are displayed by using an <i...> element, adding the base class wi and then the icon class you want.  
+If you used Wunderground's 'wu' prefix and their 'partlycloudy' icon key, it would look like `<i class="wi wi-wu-partlycloudy"></i>`.  
+The same format applies to Darksky & Openweathermap icon feeds; `<i class="wi wi-darksky-clear-day"></i>` and `<i class="wi wi-owm-01d"></i>` respectively.
 
 ## Styling
 
@@ -43,7 +44,7 @@ Example of icon rotation; `<i class="wi wi-wu-partlycloudy wi-rotate-270"></i>`
 To position the icon centrally in a node-RED dashboard element, it is necessary to add a `style` attribute around the `<i class>`;
 
 ```
-<div style="flex;height: 100%;justify-content: center;align-items: center;">
+<div style="flex; height:100%; justify-content:center; align-items:center;">
 <i class="wi wi-darksky-clear-day">
 </div>
 ```
