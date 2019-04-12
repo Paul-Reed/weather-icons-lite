@@ -8,7 +8,7 @@ Weather Icons Lite is a collection of 57 weather themed icons, **which are alrea
 
 ## Basic Usage
 
-The icons are displayed by using an <i...> element, adding the base class wi and then the icon class you want.  
+The icons are displayed by using an `<i...>` element, adding the base class wi and then the icon class you want.  
 If you used Wunderground's 'wu' prefix and their 'partlycloudy' icon key, it would look like `<i class="wi wi-wu-partlycloudy"></i>`.  
 The same format applies to Darksky & Openweathermap icon feeds; `<i class="wi wi-darksky-clear-day"></i>` and `<i class="wi wi-owm-01d"></i>` respectively.
 
