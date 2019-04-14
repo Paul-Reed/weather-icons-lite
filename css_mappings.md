@@ -20,7 +20,7 @@
 | wi-wu-nt_hazy                                                |                                | wi-owm-03n     | f07e      |   ![](images/f07e.jpg)   |
 |                                                              |                                | wi-owm-09n     | f026      |   ![](images/f026.jpg)   |
 | wi-wu-nt_chancerain<br />wi-wu-nt_rain                       |                                | wi-owm-10n     | f028      |   ![](images/f028.jpg)   |
-|                                                              |                                | wi-owm-11n     | f02c      |   ![](images/f02e.JPG)   |
+|                                                              |                                | wi-owm-11n     | f02c      |   ![](images/f02c.jpg)   |
 | wi-wu-nt_chancesnow<br />wi-wu-nt_snow                       |                                | wi-owm-13n     | f02a      |   ![](images/f02a.jpg)   |
 | wi-wu-nt_fog                                                 |                                | wi-owm-50n     | f04a      |   ![](images/f04a.jpg)   |
 | wi-wu-chanceflurries<br />wi-wu-flurries                     |                                |                | f064      |   ![](images/f064.jpg)   |
