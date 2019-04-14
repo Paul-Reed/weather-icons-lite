@@ -1,13 +1,10 @@
 # CSS Mapping
-Wunderground, Darksky & Openweathermap api's each describe weather conditions differently, so individual descriptions are mapped 
-using css to an icon, which best represents that condition.
-
-
+Each weather service 
 | Wunderground                                                 | Darksky                        | Openweathermap | Icon Name |           icon           |
 | :-------------------------- | :----------------- | :------------- | :-------- | :----------------------: |
-| wi-wu-clear<br />br />wi-wu-sunny | wi-darksky-clear-day           | wi-owm-01d     | f00d      |   ![](images/f00d.JPG)   |
-| wi-wu-nt_clear<br />wi-wu-nt_mostlysunny<br />wi-wu-nt_sunny | wi-darksky-clear-night         | wi-owm-01n     | f02e      |   ![](images/f02e.JPG)   |
-| wi-wu-chancerain                                             | wi-darksky-rain                | wi-owm-10d     | f019      | ![f019](images/f019.JPG) |
+| wi-wu-clear<br />wi-wu-sunny    |                               | wi-darksky-clear-day           | wi-owm-01d     | f00d      |   ![](images/f00d.jpg)   |
+| wi-wu-nt_clear<br />wi-wu-nt_mostlysunny<br />wi-wu-nt_sunny | wi-darksky-clear-night         | wi-owm-01n     | f02e      |   ![](images/f02e.jpg)   |
+| wi-wu-chancerain                                             | wi-darksky-rain                | wi-owm-10d     | f019      |   ![](images/f019.jpg)   |
 | wi-wu-chancesnow<br />wi-wu-snow                             | wi-darksky-snow                | wi-owm-13d     | f01b      |   ![](images/f01b.jpg)   |
 | wi-wu-chancesleet<br />wi-wu-sleet                           | wi-darksky-sleet               |                | f0b5      |   ![](images/f0b5.jpg)   |
 | wi-wu-fog                                                    | wi-darksky-fog                 | wi-owm-50d     | f014      |   ![](images/f014.jpg)   |
