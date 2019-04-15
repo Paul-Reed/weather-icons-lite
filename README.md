@@ -2,7 +2,7 @@
 
 ## Weather Themed Icons and CSS
 
-Weather Icons Lite is a collection of 57 weather themed icons, **which are already integrated within node-RED**, or can be used in any project that needs high quality weather based icons!
+Weather Icons Lite is a collection of weather themed icons, **which are already integrated within node-RED**, or can be used in any project that needs high quality weather based icons!
 
 ![Icon Preview](images/example.PNG)
 
