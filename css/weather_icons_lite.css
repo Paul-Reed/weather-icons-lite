@@ -308,3 +308,27 @@ mirror=1);
 .wi-wu-nt_cloudy:before {
   content: "\f031";
 }
+.wi-moon_wax_cres:before {
+  content: "\f0da";
+}
+.wi-moon_first_quart:before {
+  content: "\f0db";
+}
+.wi-moon_wax_gibb:before {
+  content: "\f0dc";
+}
+.wi-moon_full:before {
+  content: "\f0dd";
+}
+.wi-moon_wan_gibb:before {
+  content: "\f0de";
+}
+.wi-moon_third_quart:before {
+  content: "\f02df";
+}
+.wi-moon_wan_cres:before {
+  content: "\f0e0";
+}
+.wi-moon_new:before {
+  content: "\f0e1";
+}
