@@ -71,4 +71,13 @@
 <string name="wi_wu_nt_tstorms">&#xf02d;</string>
 <string name="wi_wu_nt_cloudy">&#xf031;</string>
 
+<string name="wi-moon_wax_cres">&#xf0da;</string>
+<string name="wi-moon_first_quart">&#xf0db;</string>
+<string name="wi-moon_wax_gibb">&#xf0dc;</string>
+<string name="wi-moon_full">&#xf0d;</string>
+<string name="wi-moon_wan_gibb">&#xf0de;</string>
+<string name="wi-moon_third_quart">&#xf0df;</string>
+<string name="wi-moon_wan_cres">&#xf0e0;</string>
+<string name="wi-moon_new">&#xf0e1;</string>
+  
 </resources>
