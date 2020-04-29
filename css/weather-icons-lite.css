@@ -308,27 +308,27 @@ mirror=1);
 .wi-wu-nt_cloudy:before {
   content: "\f031";
 }
-.wi-moon_wax_cres:before {
+.wi-moon-wax-cres:before {
   content: "\f0da";
 }
-.wi-moon_first_quart:before {
+.wi-moon-first-quart:before {
   content: "\f0db";
 }
-.wi-moon_wax_gibb:before {
+.wi-moon-wax-gibb:before {
   content: "\f0dc";
 }
-.wi-moon_full:before {
+.wi-moon-full:before {
   content: "\f0dd";
 }
-.wi-moon_wan_gibb:before {
+.wi-moon-wan-gibb:before {
   content: "\f0de";
 }
-.wi-moon_third_quart:before {
-  content: "\f02df";
+.wi-moon-third-quart:before {
+  content: "\f0df";
 }
-.wi-moon_wan_cres:before {
+.wi-moon-wan-cres:before {
   content: "\f0e0";
 }
-.wi-moon_new:before {
+.wi-moon-new:before {
   content: "\f0e1";
 }
