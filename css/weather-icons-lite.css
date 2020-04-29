@@ -309,26 +309,26 @@ mirror=1);
   content: "\f031";
 }
 .wi-moon-wax-cres:before {
-  content: "\f0da";
-}
-.wi-moon-first-quart:before {
-  content: "\f0db";
-}
-.wi-moon-wax-gibb:before {
-  content: "\f0dc";
-}
-.wi-moon-full:before {
-  content: "\f0dd";
-}
-.wi-moon-wan-gibb:before {
   content: "\f0de";
 }
-.wi-moon-third-quart:before {
+.wi-moon-first-quart:before {
   content: "\f0df";
 }
-.wi-moon-wan-cres:before {
+.wi-moon-wax-gibb:before {
   content: "\f0e0";
 }
-.wi-moon-new:before {
+.wi-moon-full:before {
   content: "\f0e1";
+}
+.wi-moon-wan-gibb:before {
+  content: "\f0da";
+}
+.wi-moon-third-quart:before {
+  content: "\f0db";
+}
+.wi-moon-wan-cres:before {
+  content: "\f0dc";
+}
+.wi-moon-new:before {
+  content: "\f0dd";
 }
