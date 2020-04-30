@@ -2,7 +2,7 @@
 
 ## Weather Themed Icons and CSS
 
-Weather Icons Lite is a collection of weather themed icons, **which are already integrated within node-RED**, or can be used in any project that needs high quality weather based icons!
+Weather Icons Lite is a collection of weather themed icons, **which are already integrated within node-RED**, or can be used in any project that needs high quality weather & moon phase icons!
 
 ![Icon Preview](images/example.PNG)
 
@@ -11,7 +11,7 @@ Weather Icons Lite is a collection of weather themed icons, **which are already 
 The icons are displayed by using an `<i...>` element, adding the base class wi and then the icon class you want.  
 If you used Wunderground's 'wu' prefix and their 'partlycloudy' icon key, it would look like `<i class="wi wi-wu-partlycloudy"></i>`.  
 The same format applies to Darksky & Openweathermap icon feeds; `<i class="wi wi-darksky-clear-day"></i>` and `<i class="wi wi-owm-01d"></i>` respectively.  
-A full list of the Wunderground, Openweathermap & Darksky api mappings, which map the api output to a particular weather icon can be found on the [CSS Mapping](css_mappings.md) reference.
+A full list of the Wunderground, Openweathermap, Darksky & Moon api mappings, which map the api output to a particular weather icon can be found on the [CSS Mapping](css_mappings.md) reference.
 
 ## Styling
 
@@ -37,7 +37,7 @@ Example of changing icon colour; `<i class="wi wi-darksky-clear-day" style="colo
 
 #### Rotating icons
 
-Icons can also be flipped or rotated, using any of the modifiers; `wi-flip-vertical`, `wi-flip-horizontal`, and `wi-rotate-90`, `wi-rotate-90`, `wi-rotate-180`, `wi-rotate-270`  
+Icons can also be flipped or rotated, using any of the modifiers; `wi-flip-vertical`, `wi-flip-horizontal`, and `wi-rotate-23`, `wi-rotate-90`, `wi-rotate-180`, `wi-rotate-270`  
 Example of icon rotation; `<i class="wi wi-wu-partlycloudy wi-rotate-270"></i>`
 
 #### Positioning icons
