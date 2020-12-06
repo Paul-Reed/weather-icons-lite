@@ -37,7 +37,7 @@ Example of changing icon colour; `<i class="wi wi-darksky-clear-day" style="colo
 
 #### Rotating icons
 
-Icons can also be flipped or rotated, using any of the modifiers; `wi-flip-vertical`, `wi-flip-horizontal`, and `wi-rotate-23`, `wi-rotate-90`, `wi-rotate-180`, `wi-rotate-270`  
+Icons can also be flipped or rotated, using any of the modifiers; `wi-flip-vertical`, `wi-flip-horizontal`, and `wi-rotate-23`, `wi-rotate-45`, `wi-rotate-90`, `wi-rotate-135`, `wi-rotate-180`, `wi-rotate-225`, `wi-rotate-270`, `wi-rotate-315`  
 Example of icon rotation; `<i class="wi wi-wu-partlycloudy wi-rotate-270"></i>`
 
 #### Positioning icons
