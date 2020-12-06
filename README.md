@@ -15,7 +15,12 @@ A full list of the Wunderground, Openweathermap, Darksky & Moon api mappings, wh
 
 ## Styling
 
-To add a modifier, include the class you want after the icon name;
+To add a modifier, include the class you want after the icon name.
+
+The modifiers listed below can also be used with font-awsome icons, such as;
+```
+<i class="fa fa-location-arrow wi-rotate-45 wi-4x"></i>
+```
 
 #### Size
 
