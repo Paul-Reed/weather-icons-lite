@@ -44,7 +44,7 @@ Example of changing icon colour; `<i class="wi wi-darksky-clear-day" style="colo
 
 Weather-Icons & Font Awsome icons can also be flipped or rotated, using any of the modifiers; `wi-flip-vertical`, `wi-flip-horizontal`, and `wi-rotate-23`, `wi-rotate-45`, `wi-rotate-90`, `wi-rotate-135`, `wi-rotate-180`, `wi-rotate-225`, `wi-rotate-270`, `wi-rotate-315`  
 
-Cardinal & Ordinal references can also be used - `wi-rotate-NE`, `wi-rotate-E`(which will rotate the icons for example NE = 45 deg clockwise).  
+Cardinal & Ordinal references can also be used - `wi-rotate-NE`, `wi-towards-NE` & `wi-from-SW` (all of which will rotate the icons for example 45 deg clockwise).  
 
 Example of icon rotation; `<i class="wi wi-wu-partlycloudy wi-rotate-270"></i>`
 
