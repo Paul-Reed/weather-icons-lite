@@ -75,12 +75,6 @@
   -ms-transform: rotate(0deg);
   transform: rotate(0deg);
 }
-}
-.wi-rotate-N,.wi-rotate-N,.wi-towards-N,.wi-from-S {
-  -webkit-transform: rotate(0deg);
-  -ms-transform: rotate(0deg);
-  transform: rotate(0deg);
-}
 .wi-rotate-23,.wi-rotate-NNE,.wi-towards-NNE,.wi-from-SSW {
   -webkit-transform: rotate(23deg);
   -ms-transform: rotate(23deg);
