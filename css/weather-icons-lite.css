@@ -88,7 +88,7 @@
 .wi-rotate-68,.wi-rotate-ENE,.wi-towards-ENE,.wi-from-WSW {
   -webkit-transform: rotate(68deg);
   -ms-transform: rotate(68deg);
-  transform: rotate(68eg);
+  transform: rotate(68deg);
 }
 .wi-rotate-90,.wi-rotate-E,.wi-towards-E,.wi-from-W {
   filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=1);
@@ -140,7 +140,7 @@
 }
 .wi-rotate-293,.wi-rotate-WNW.wi-towards-WNW,.wi-from-ESE {
   -webkit-transform: rotate(293deg);
-  -ms-transform: rotate(293eg);
+  -ms-transform: rotate(293deg);
   transform: rotate(293deg);
 }
 .wi-rotate-315,.wi-rotate-NW,.wi-towards-NW,.wi-from-SE {
