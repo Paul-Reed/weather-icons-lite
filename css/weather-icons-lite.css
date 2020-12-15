@@ -166,6 +166,12 @@ mirror=1);
   -ms-transform: scale(1, -1);
   transform: scale(1, -1);
 }
+.wi-arrow:before {
+  content: "\f0d2";
+}
+.wi-direction:before {
+  content: "\f0d1";
+}
 .wi-darksky-clear-day:before {
   content: "\f00d";
 }
