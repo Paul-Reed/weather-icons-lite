@@ -44,3 +44,9 @@
 | wi-moon-wan-cres               | f0e0      |   ![](images/moon4.JPG)   |
 
 **NOTE** - Because the Moon icons are representative of a 'physical moon', it is necessary to have an additional version for the dark theme, to avoid the icon colour becoming inverted. The dark theme version is obtained by adding `-dark` to the CSS code. For example to get the full moon (light theme version) the code would be `wi-moon-full`, whilst the same icon for a dark theme, the CSS code would be `wi-moon-full-dark`.
+
+# Direction pointers
+| CSS Code                                                 | Icon Name |           icon           |
+| :-------------------------- | :-------- | :----------------------: |
+| wi-arrow                    | f0d1      |   ![](images/f0d1.JPG)   |
+| wi-direction                | f0d2      |   ![](images/f0d2.JPG)   |
