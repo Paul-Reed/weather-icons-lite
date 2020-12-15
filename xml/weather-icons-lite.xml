@@ -86,5 +86,6 @@
 <string name="wi-moon-third-quart">&#xf0df;</string>
 <string name="wi-moon-wan-cres">&#xf0e0;</string>
 <string name="wi-moon-new">&#xf0e1;</string>
-  
+<string name="wi-arrow">&#xf0d2;</string>
+<string name="wi-direction">&#xf0d1;</string>  
 </resources>
