@@ -122,12 +122,12 @@
   -ms-transform: rotate(203deg);
   transform: rotate(203deg);
 }
-.wi-rotate-225,.wi-rotate-SW.wi-towards-SW,.wi-from-NE {
+.wi-rotate-225,.wi-rotate-SW,.wi-towards-SW,.wi-from-NE {
   -webkit-transform: rotate(225deg);
   -ms-transform: rotate(225deg);
   transform: rotate(225deg);
 }
-.wi-rotate-248,.wi-rotate-WSW.wi-towards-WSW,.wi-from-ENE {
+.wi-rotate-248,.wi-rotate-WSW,.wi-towards-WSW,.wi-from-ENE {
   -webkit-transform: rotate(248deg);
   -ms-transform: rotate(248deg);
   transform: rotate(248deg);
@@ -138,7 +138,7 @@
   -ms-transform: rotate(270deg);
   transform: rotate(270deg);
 }
-.wi-rotate-293,.wi-rotate-WNW.wi-towards-WNW,.wi-from-ESE {
+.wi-rotate-293,.wi-rotate-WNW,.wi-towards-WNW,.wi-from-ESE {
   -webkit-transform: rotate(293deg);
   -ms-transform: rotate(293deg);
   transform: rotate(293deg);
