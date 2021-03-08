@@ -42,7 +42,7 @@ Example of changing icon colour; `<i class="wi wi-darksky-clear-day" style="colo
 
 #### Rotating icons
 
-Weather-Icons & Font Awsome icons can also be flipped or rotated, using any of the modifiers; `wi-flip-vertical`, `wi-flip-horizontal`, and `wi-rotate-23`, `wi-rotate-45` etc (including angles 23, 45, 68, 90, 133, 135, 158, 180, 203, 225, 248, 270, 293, 315, 338, 0).
+Weather-Icons & Font Awsome icons can also be flipped or rotated, using any of the modifiers; `wi-flip-vertical`, `wi-flip-horizontal`, and `wi-rotate-23`, `wi-rotate-45` etc (including angles 23, 45, 68, 90, 113, 135, 158, 180, 203, 225, 248, 270, 293, 315, 338, 0).
 
 Cardinal & Ordinal references can also be used - `wi-rotate-NE`, `wi-towards-WNW` & `wi-from-ESE` (all of which will rotate the icons clockwise).  
 
